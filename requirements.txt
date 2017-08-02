@@ -1,0 +1,6 @@
+six
+pandas
+pandas-gbq
+retrying 
+google-cloud-bigquery
+gcloud

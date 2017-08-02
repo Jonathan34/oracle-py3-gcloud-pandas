@@ -2,4 +2,4 @@
 
 set -e
 
-docker build -t oracle-py3-gcloud-pandas docker/.
+docker build -t oracle-py3-gcloud-pandas .
